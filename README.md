@@ -23,4 +23,4 @@ Christine Lewis
 <h3>License</h3>
 Our project is licensed under the MIT license. This is the basic license used for our class.
 <h3>Acknowledgements</h3>
-Brosuis was our inspiration for this program.
+Brosius was our inspiration for this program.
